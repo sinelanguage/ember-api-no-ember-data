@@ -1,6 +1,3 @@
-starter-kit
-===========
-
 A starter kit for Ember
 
 Your Ember.js project is almost ready! Here's how to get started:
@@ -34,3 +31,6 @@ Contact
 ====
 
 [www.emberjs.com](http://www.emberjs.com)
+=======
+
+Simple app that just gets JSON without using Ember Data
